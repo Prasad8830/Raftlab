@@ -1,0 +1,1002 @@
+[
+  {
+    "name": "AdoptAPet",
+    "description": "Resource to help get pets adopted",
+    "category": "Animals",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://www.adoptapet.com/public/apis/pet_list.html",
+    "slug": "adoptapet"
+  },
+  {
+    "name": "Axolotl",
+    "description": "Axolotl pictures and facts",
+    "category": "Animals",
+    "auth": "No",
+    "https": true,
+    "cors": "No",
+    "link": "https://theaxolotlapi.netlify.app/",
+    "slug": "axolotl"
+  },
+  {
+    "name": "Cat Facts",
+    "description": "Daily cat facts",
+    "category": "Animals",
+    "auth": "No",
+    "https": true,
+    "cors": "No",
+    "link": "https://alexwohlbruck.github.io/cat-facts/",
+    "slug": "cat-facts"
+  },
+  {
+    "name": "Cataas",
+    "description": "Cat pictures and GIFs",
+    "category": "Animals",
+    "auth": "No",
+    "https": true,
+    "cors": "No",
+    "link": "https://cataas.com/",
+    "slug": "cataas"
+  },
+  {
+    "name": "Cats",
+    "description": "Cat images API",
+    "category": "Animals",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "No",
+    "link": "https://docs.thecatapi.com/",
+    "slug": "cats"
+  },
+  {
+    "name": "Dog Facts",
+    "description": "Random dog facts",
+    "category": "Animals",
+    "auth": "No",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://dukengn.github.io/Dog-facts-API/",
+    "slug": "dog-facts"
+  },
+  {
+    "name": "Dogs",
+    "description": "Dog images API",
+    "category": "Animals",
+    "auth": "No",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://dog.ceo/dog-api/",
+    "slug": "dogs"
+  },
+  {
+    "name": "eBird",
+    "description": "Bird observations",
+    "category": "Animals",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "No",
+    "link": "https://documenter.getpostman.com/view/664302/S1ENwy59",
+    "slug": "ebird"
+  },
+  {
+    "name": "FishWatch",
+    "description": "Fish species data",
+    "category": "Animals",
+    "auth": "No",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://www.fishwatch.gov/developers",
+    "slug": "fishwatch"
+  },
+  {
+    "name": "HTTP Cat",
+    "description": "Cats for HTTP status",
+    "category": "Animals",
+    "auth": "No",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://http.cat/",
+    "slug": "http-cat"
+  },
+  {
+    "name": "HTTP Dog",
+    "description": "Dogs for HTTP status",
+    "category": "Animals",
+    "auth": "No",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://http.dog/",
+    "slug": "http-dog"
+  },
+  {
+    "name": "IUCN",
+    "description": "Threatened species data",
+    "category": "Animals",
+    "auth": "apiKey",
+    "https": false,
+    "cors": "No",
+    "link": "http://apiv3.iucnredlist.org/api/v3/docs",
+    "slug": "iucn"
+  },
+  {
+    "name": "MeowFacts",
+    "description": "Random cat facts",
+    "category": "Animals",
+    "auth": "No",
+    "https": true,
+    "cors": "No",
+    "link": "https://github.com/wh-iterabb-it/meowfacts",
+    "slug": "meowfacts"
+  },
+  {
+    "name": "Movebank",
+    "description": "Animal movement data",
+    "category": "Animals",
+    "auth": "No",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://github.com/movebank/movebank-api-doc",
+    "slug": "movebank"
+  },
+  {
+    "name": "Petfinder",
+    "description": "Adoptable pets",
+    "category": "Animals",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://www.petfinder.com/developers/",
+    "slug": "petfinder"
+  },
+  {
+    "name": "RandomFox",
+    "description": "Random fox images",
+    "category": "Animals",
+    "auth": "No",
+    "https": true,
+    "cors": "No",
+    "link": "https://randomfox.ca/floof/",
+    "slug": "randomfox"
+  },
+  {
+    "name": "RandomDuck",
+    "description": "Random duck images",
+    "category": "Animals",
+    "auth": "No",
+    "https": true,
+    "cors": "No",
+    "link": "https://random-d.uk/api",
+    "slug": "randomduck"
+  },
+  {
+    "name": "Shibe.Online",
+    "description": "Shiba Inu images",
+    "category": "Animals",
+    "auth": "No",
+    "https": true,
+    "cors": "Yes",
+    "link": "http://shibe.online/",
+    "slug": "shibeonline"
+  },
+  {
+    "name": "Zoo Animals",
+    "description": "Zoo animal facts",
+    "category": "Animals",
+    "auth": "No",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://zoo-animal-api.herokuapp.com/",
+    "slug": "zoo-animals"
+  },
+  {
+    "name": "xeno-canto",
+    "description": "Bird sound recordings",
+    "category": "Animals",
+    "auth": "No",
+    "https": true,
+    "cors": "Unknown",
+    "link": "https://xeno-canto.org/explore/api",
+    "slug": "xeno-canto"
+  },
+  {
+    "name": "AniAPI",
+    "description": "Anime discovery",
+    "category": "Anime",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://aniapi.com/docs/",
+    "slug": "aniapi"
+  },
+  {
+    "name": "AniDB",
+    "description": "Anime database",
+    "category": "Anime",
+    "auth": "apiKey",
+    "https": false,
+    "cors": "Unknown",
+    "link": "https://wiki.anidb.net/HTTP_API_Definition",
+    "slug": "anidb"
+  },
+  {
+    "name": "AniList",
+    "description": "Anime tracking",
+    "category": "Anime",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "Unknown",
+    "link": "https://github.com/AniList/ApiV2-GraphQL-Docs",
+    "slug": "anilist"
+  },
+  {
+    "name": "AnimeChan",
+    "description": "Anime quotes",
+    "category": "Anime",
+    "auth": "No",
+    "https": true,
+    "cors": "No",
+    "link": "https://github.com/RocktimSaikia/anime-chan",
+    "slug": "animechan"
+  },
+  {
+    "name": "AnimeFacts",
+    "description": "Anime facts",
+    "category": "Anime",
+    "auth": "No",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://chandan-02.github.io/anime-facts-rest-api/",
+    "slug": "animefacts"
+  },
+  {
+    "name": "AnimeNewsNetwork",
+    "description": "Anime industry news",
+    "category": "Anime",
+    "auth": "No",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://www.animenewsnetwork.com/encyclopedia/api.php",
+    "slug": "animenewsnetwork"
+  },
+  {
+    "name": "Danbooru",
+    "description": "Anime art database",
+    "category": "Anime",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://danbooru.donmai.us/wiki_pages/help:api",
+    "slug": "danbooru"
+  },
+  {
+    "name": "Jikan",
+    "description": "MyAnimeList API",
+    "category": "Anime",
+    "auth": "No",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://jikan.moe",
+    "slug": "jikan"
+  },
+  {
+    "name": "Kitsu",
+    "description": "Anime discovery",
+    "category": "Anime",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://kitsu.docs.apiary.io/",
+    "slug": "kitsu"
+  },
+  {
+    "name": "MangaDex",
+    "description": "Manga database",
+    "category": "Anime",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Unknown",
+    "link": "https://api.mangadex.org/docs.html",
+    "slug": "mangadex"
+  },
+  {
+    "name": "MyAnimeList",
+    "description": "Anime & manga DB",
+    "category": "Anime",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "Unknown",
+    "link": "https://myanimelist.net",
+    "slug": "myanimelist"
+  },
+  {
+    "name": "NekosBest",
+    "description": "Anime GIFs",
+    "category": "Anime",
+    "auth": "No",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://docs.nekos.best",
+    "slug": "nekosbest"
+  },
+  {
+    "name": "Shikimori",
+    "description": "Anime discovery",
+    "category": "Anime",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "Unknown",
+    "link": "https://shikimori.one/api/doc",
+    "slug": "shikimori"
+  },
+  {
+    "name": "Studio Ghibli",
+    "description": "Ghibli films data",
+    "category": "Anime",
+    "auth": "No",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://ghibliapi.herokuapp.com",
+    "slug": "studio-ghibli"
+  },
+  {
+    "name": "Trace Moe",
+    "description": "Find anime scene",
+    "category": "Anime",
+    "auth": "No",
+    "https": true,
+    "cors": "No",
+    "link": "https://soruly.github.io/trace.moe-api/#/",
+    "slug": "trace-moe"
+  },
+  {
+    "name": "Waifu.im",
+    "description": "Waifu images",
+    "category": "Anime",
+    "auth": "No",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://waifu.im/docs",
+    "slug": "waifuim"
+  },
+  {
+    "name": "Waifu.pics",
+    "description": "Anime images",
+    "category": "Anime",
+    "auth": "No",
+    "https": true,
+    "cors": "No",
+    "link": "https://waifu.pics/docs",
+    "slug": "waifupics"
+  },
+  {
+    "name": "Catboy",
+    "description": "Anime GIFs",
+    "category": "Anime",
+    "auth": "No",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://catboys.com/api",
+    "slug": "catboy"
+  },
+  {
+    "name": "AnimeThemes",
+    "description": "Anime openings",
+    "category": "Anime",
+    "auth": "No",
+    "https": true,
+    "cors": "Unknown",
+    "link": "https://github.com/AnimeThemes/animethemes-api",
+    "slug": "animethemes"
+  },
+  {
+    "name": "AniSkip",
+    "description": "Skip anime intros",
+    "category": "Anime",
+    "auth": "No",
+    "https": true,
+    "cors": "Unknown",
+    "link": "https://github.com/AniSkip/api-docs",
+    "slug": "aniskip"
+  },
+  {
+    "name": "Auth0",
+    "description": "Authentication platform",
+    "category": "Authentication & Authorization",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://auth0.com",
+    "slug": "auth0"
+  },
+  {
+    "name": "GetOTP",
+    "description": "OTP authentication",
+    "category": "Authentication & Authorization",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "No",
+    "link": "https://otp.dev/en/docs/",
+    "slug": "getotp"
+  },
+  {
+    "name": "Micro User Service",
+    "description": "User auth service",
+    "category": "Authentication & Authorization",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "No",
+    "link": "https://m3o.com/user",
+    "slug": "micro-user-service"
+  },
+  {
+    "name": "MojoAuth",
+    "description": "Passwordless auth",
+    "category": "Authentication & Authorization",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://mojoauth.com",
+    "slug": "mojoauth"
+  },
+  {
+    "name": "SAWO Labs",
+    "description": "Passwordless login",
+    "category": "Authentication & Authorization",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://sawolabs.com",
+    "slug": "sawo-labs"
+  },
+  {
+    "name": "Stytch",
+    "description": "User infrastructure",
+    "category": "Authentication & Authorization",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "No",
+    "link": "https://stytch.com",
+    "slug": "stytch"
+  },
+  {
+    "name": "Warrant",
+    "description": "Authorization APIs",
+    "category": "Authentication & Authorization",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://warrant.dev",
+    "slug": "warrant"
+  },
+  {
+    "name": "Clerk",
+    "description": "Auth for apps",
+    "category": "Authentication & Authorization",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://clerk.com",
+    "slug": "clerk"
+  },
+  {
+    "name": "Firebase Auth",
+    "description": "Google auth service",
+    "category": "Authentication & Authorization",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://firebase.google.com/docs/auth",
+    "slug": "firebase-auth"
+  },
+  {
+    "name": "Keycloak",
+    "description": "Open-source IAM",
+    "category": "Authentication & Authorization",
+    "auth": "No",
+    "https": true,
+    "cors": "Unknown",
+    "link": "https://www.keycloak.org",
+    "slug": "keycloak"
+  },
+  {
+    "name": "Authress",
+    "description": "Authorization as service",
+    "category": "Authentication & Authorization",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://authress.io",
+    "slug": "authress"
+  },
+  {
+    "name": "FusionAuth",
+    "description": "Identity platform",
+    "category": "Authentication & Authorization",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://fusionauth.io",
+    "slug": "fusionauth"
+  },
+  {
+    "name": "SuperTokens",
+    "description": "Open source auth",
+    "category": "Authentication & Authorization",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://supertokens.com",
+    "slug": "supertokens"
+  },
+  {
+    "name": "Ory",
+    "description": "Auth infrastructure",
+    "category": "Authentication & Authorization",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://www.ory.sh",
+    "slug": "ory"
+  },
+  {
+    "name": "Passage",
+    "description": "Passwordless auth",
+    "category": "Authentication & Authorization",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://passage.id",
+    "slug": "passage"
+  },
+  {
+    "name": "WorkOS",
+    "description": "Enterprise auth",
+    "category": "Authentication & Authorization",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://workos.com",
+    "slug": "workos"
+  },
+  {
+    "name": "Magic",
+    "description": "Passwordless login",
+    "category": "Authentication & Authorization",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://magic.link",
+    "slug": "magic"
+  },
+  {
+    "name": "LoginRadius",
+    "description": "CIAM platform",
+    "category": "Authentication & Authorization",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://www.loginradius.com",
+    "slug": "loginradius"
+  },
+  {
+    "name": "Okta",
+    "description": "Identity management",
+    "category": "Authentication & Authorization",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://www.okta.com",
+    "slug": "okta"
+  },
+  {
+    "name": "Authy",
+    "description": "Two-factor auth",
+    "category": "Authentication & Authorization",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://www.twilio.com/authy",
+    "slug": "authy"
+  },
+  {
+    "name": "Bitquery",
+    "description": "Onchain GraphQL APIs",
+    "category": "Blockchain",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://graphql.bitquery.io/ide",
+    "slug": "bitquery"
+  },
+  {
+    "name": "Chainlink",
+    "description": "Hybrid smart contracts",
+    "category": "Blockchain",
+    "auth": "No",
+    "https": true,
+    "cors": "Unknown",
+    "link": "https://chain.link/developer-resources",
+    "slug": "chainlink"
+  },
+  {
+    "name": "Chainpoint",
+    "description": "Blockchain anchoring",
+    "category": "Blockchain",
+    "auth": "No",
+    "https": true,
+    "cors": "Unknown",
+    "link": "https://tierion.com/chainpoint/",
+    "slug": "chainpoint"
+  },
+  {
+    "name": "Covalent",
+    "description": "Blockchain data API",
+    "category": "Blockchain",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Unknown",
+    "link": "https://www.covalenthq.com/docs/api/",
+    "slug": "covalent"
+  },
+  {
+    "name": "Etherscan",
+    "description": "Ethereum explorer",
+    "category": "Blockchain",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://etherscan.io/apis",
+    "slug": "etherscan"
+  },
+  {
+    "name": "Helium",
+    "description": "IoT blockchain",
+    "category": "Blockchain",
+    "auth": "No",
+    "https": true,
+    "cors": "Unknown",
+    "link": "https://docs.helium.com/api/blockchain/introduction/",
+    "slug": "helium"
+  },
+  {
+    "name": "Nownodes",
+    "description": "Blockchain nodes",
+    "category": "Blockchain",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Unknown",
+    "link": "https://nownodes.io/",
+    "slug": "nownodes"
+  },
+  {
+    "name": "Steem",
+    "description": "Blockchain blogging",
+    "category": "Blockchain",
+    "auth": "No",
+    "https": false,
+    "cors": "No",
+    "link": "https://developers.steem.io/",
+    "slug": "steem"
+  },
+  {
+    "name": "The Graph",
+    "description": "Blockchain indexing",
+    "category": "Blockchain",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Unknown",
+    "link": "https://thegraph.com",
+    "slug": "the-graph"
+  },
+  {
+    "name": "Walltime",
+    "description": "Market info",
+    "category": "Blockchain",
+    "auth": "No",
+    "https": true,
+    "cors": "Unknown",
+    "link": "https://walltime.info/api.html",
+    "slug": "walltime"
+  },
+  {
+    "name": "Watchdata",
+    "description": "Ethereum API",
+    "category": "Blockchain",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Unknown",
+    "link": "https://docs.watchdata.io",
+    "slug": "watchdata"
+  },
+  {
+    "name": "Alchemy",
+    "description": "Ethereum node service",
+    "category": "Blockchain",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://docs.alchemy.com",
+    "slug": "alchemy"
+  },
+  {
+    "name": "Infura",
+    "description": "Ethereum infrastructure",
+    "category": "Blockchain",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://infura.io",
+    "slug": "infura"
+  },
+  {
+    "name": "Moralis",
+    "description": "Web3 backend",
+    "category": "Blockchain",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://docs.moralis.io",
+    "slug": "moralis"
+  },
+  {
+    "name": "QuickNode",
+    "description": "Blockchain infrastructure",
+    "category": "Blockchain",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://www.quicknode.com/docs",
+    "slug": "quicknode"
+  },
+  {
+    "name": "BlockCypher",
+    "description": "Blockchain APIs",
+    "category": "Blockchain",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://www.blockcypher.com/dev/",
+    "slug": "blockcypher"
+  },
+  {
+    "name": "Alchemy NFT",
+    "description": "NFT APIs",
+    "category": "Blockchain",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://docs.alchemy.com/reference/nft-api",
+    "slug": "alchemy-nft"
+  },
+  {
+    "name": "OpenSea",
+    "description": "NFT marketplace API",
+    "category": "Blockchain",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://docs.opensea.io/reference/api-overview",
+    "slug": "opensea"
+  },
+  {
+    "name": "CoinGecko",
+    "description": "Crypto market data",
+    "category": "Blockchain",
+    "auth": "No",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://www.coingecko.com/api",
+    "slug": "coingecko"
+  },
+  {
+    "name": "Solana JSON RPC",
+    "description": "Solana blockchain RPC",
+    "category": "Blockchain",
+    "auth": "No",
+    "https": true,
+    "cors": "Unknown",
+    "link": "https://docs.solana.com/developing/clients/jsonrpc-api",
+    "slug": "solana-json-rpc"
+  },
+  {
+    "name": "24 Pull Requests",
+    "description": "Open source collaboration",
+    "category": "Development",
+    "auth": "No",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://24pullrequests.com/api",
+    "slug": "24-pull-requests"
+  },
+  {
+    "name": "Agify.io",
+    "description": "Age estimation",
+    "category": "Development",
+    "auth": "No",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://agify.io",
+    "slug": "agifyio"
+  },
+  {
+    "name": "APIs.guru",
+    "description": "OpenAPI specs",
+    "category": "Development",
+    "auth": "No",
+    "https": true,
+    "cors": "Unknown",
+    "link": "https://apis.guru/api-doc/",
+    "slug": "apisguru"
+  },
+  {
+    "name": "Azure DevOps",
+    "description": "DevOps platform",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Unknown",
+    "link": "https://docs.microsoft.com/en-us/rest/api/azure/devops",
+    "slug": "azure-devops"
+  },
+  {
+    "name": "Beeceptor",
+    "description": "Mock APIs",
+    "category": "Development",
+    "auth": "No",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://beeceptor.com/",
+    "slug": "beeceptor"
+  },
+  {
+    "name": "Bitbucket",
+    "description": "Git repository",
+    "category": "Development",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "Unknown",
+    "link": "https://developer.atlassian.com/bitbucket/api/2/reference/",
+    "slug": "bitbucket"
+  },
+  {
+    "name": "Bored",
+    "description": "Random activities",
+    "category": "Development",
+    "auth": "No",
+    "https": true,
+    "cors": "Unknown",
+    "link": "https://www.boredapi.com/",
+    "slug": "bored"
+  },
+  {
+    "name": "CDNJS",
+    "description": "CDN library info",
+    "category": "Development",
+    "auth": "No",
+    "https": true,
+    "cors": "Unknown",
+    "link": "https://api.cdnjs.com/libraries/jquery",
+    "slug": "cdnjs"
+  },
+  {
+    "name": "Cloudflare Trace",
+    "description": "Network diagnostics",
+    "category": "Development",
+    "auth": "No",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://github.com/fawazahmed0/cloudflare-trace-api",
+    "slug": "cloudflare-trace"
+  },
+  {
+    "name": "CountAPI",
+    "description": "Simple counter",
+    "category": "Development",
+    "auth": "No",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://countapi.xyz",
+    "slug": "countapi"
+  },
+  {
+    "name": "Docker Hub",
+    "description": "Container registry",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://docs.docker.com/docker-hub/api/latest/",
+    "slug": "docker-hub"
+  },
+  {
+    "name": "ExtendsClass JSON Storage",
+    "description": "JSON storage",
+    "category": "Development",
+    "auth": "No",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://extendsclass.com/json-storage.html",
+    "slug": "extendsclass-json-storage"
+  },
+  {
+    "name": "GitHub",
+    "description": "GitHub REST API",
+    "category": "Development",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://docs.github.com/en/rest",
+    "slug": "github"
+  },
+  {
+    "name": "Httpbin",
+    "description": "HTTP testing",
+    "category": "Development",
+    "auth": "No",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://httpbin.org/",
+    "slug": "httpbin"
+  },
+  {
+    "name": "JSONbin",
+    "description": "JSON storage",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://jsonbin.io",
+    "slug": "jsonbin"
+  },
+  {
+    "name": "Mocky",
+    "description": "Mock JSON endpoints",
+    "category": "Development",
+    "auth": "No",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://designer.mocky.io/",
+    "slug": "mocky"
+  },
+  {
+    "name": "Postman",
+    "description": "API testing tool",
+    "category": "Development",
+    "auth": "apiKey",
+    "https": true,
+    "cors": "Unknown",
+    "link": "https://www.postman.com/",
+    "slug": "postman"
+  },
+  {
+    "name": "QuickChart",
+    "description": "Chart images",
+    "category": "Development",
+    "auth": "No",
+    "https": true,
+    "cors": "Yes",
+    "link": "https://quickchart.io/",
+    "slug": "quickchart"
+  },
+  {
+    "name": "ReqRes",
+    "description": "Fake REST API",
+    "category": "Development",
+    "auth": "No",
+    "https": true,
+    "cors": "Unknown",
+    "link": "https://reqres.in/",
+    "slug": "reqres"
+  },
+  {
+    "name": "StackExchange",
+    "description": "Developer Q&A",
+    "category": "Development",
+    "auth": "OAuth",
+    "https": true,
+    "cors": "Unknown",
+    "link": "https://api.stackexchange.com/",
+    "slug": "stackexchange"
+  }
+]
