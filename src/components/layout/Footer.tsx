@@ -33,12 +33,7 @@ export function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/apis#categories" className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400">
-                  Categories
-                </Link>
-              </li>
-              <li>
-                <Link href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400">
+                <Link href="https://github.com/public-apis/public-apis" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400">
                   GitHub
                 </Link>
               </li>
@@ -60,7 +55,7 @@ export function Footer() {
                 <Twitter className="w-5 h-5 text-gray-600 dark:text-gray-400" />
               </Link>
               <Link
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/prasad-shinde-87a559289/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 rounded-lg border border-gray-300 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors"
@@ -68,7 +63,7 @@ export function Footer() {
                 <Linkedin className="w-5 h-5 text-gray-600 dark:text-gray-400" />
               </Link>
               <Link
-                href="https://github.com"
+                href="https://github.com/Prasad8830"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 rounded-lg border border-gray-300 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors"

@@ -1,11 +1,9 @@
 import Link from 'next/link';
 import { ArrowRight, Zap, Shield, Globe } from 'lucide-react';
-import { APICard } from '@/components/ui/APICard';
 import { Button } from '@/components/ui/Button';
-import { getFeaturedAPIs, getAPICount, getAllCategories } from '@/lib/api-data';
+import { getAPICount, getAllCategories } from '@/lib/api-data';
 
 export default function Home() {
-  const featuredAPIs = getFeaturedAPIs(6);
   const apiCount = getAPICount();
   const categoryCount = getAllCategories().length;
 
@@ -64,35 +62,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Featured APIs Section */}
-      <section className="py-20 bg-white dark:bg-black">
-        <div className="container mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex items-center justify-between mb-12">
-            <div>
-              <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 dark:text-white mb-3">
-                Available Public APIs
-              </h2>
-              <p className="text-gray-600 dark:text-gray-400">
-                Discover the most popular and reliable APIs
-              </p>
-            </div>
-          </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {featuredAPIs.map((api) => (
-              <APICard key={api.slug} api={api} />
-            ))}
-          </div>
-
-          <div className="text-center mt-12">
-            <Link href="/apis">
-              <Button variant="outline" size="lg">
-                Load More APIs
-              </Button>
-            </Link>
-          </div>
-        </div>
-      </section>
 
       {/* Build Faster CTA Section */}
       <section className="py-20 bg-gray-900 dark:bg-gray-950 text-white">
@@ -112,23 +82,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Categories Section */}
-      <section className="py-20 bg-white dark:bg-black">
-        <div className="container mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 dark:text-white mb-4">
-            Discover APIs by Category
-          </h2>
-          <p className="text-gray-600 dark:text-gray-400 mb-8 max-w-2xl mx-auto">
-            Browse APIs organized by categories like Animals, Anime, Authentication, Blockchain, and Development
-          </p>
-          <Link href="/apis#categories">
-            <Button size="lg" variant="outline">
-              View Categories
-              <ArrowRight className="ml-2 w-5 h-5" />
-            </Button>
-          </Link>
-        </div>
-      </section>
+
     </div>
   );
 }
